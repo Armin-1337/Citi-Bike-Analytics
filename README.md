@@ -1,4 +1,4 @@
-# Tableau - Citi Bike Analytics
+# Citi Bike Analytics
 
 ## [Tableau](https://public.tableau.com/profile/poomasterx#!/vizhome/CitiBikeStory_15847631751450/CitiBike) <--Click here for visual
 
