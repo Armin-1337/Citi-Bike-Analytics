@@ -6,7 +6,7 @@
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
-However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so my task is to build a set of data reports to provide the answers.
+However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so my task is to build a set of data reports to provide the answers. Data contains information from 2015-2020.
 
 ## Procedure
 
@@ -14,7 +14,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ![Citi-Bikes](images/data_list.png)
 
-Datasets are found online, JC*csvs yields the most compressed files making them easiest to work with. Over 58 csvs are downloaded and unzipped.
+Datasets are found online, JC*csvs yields the most compressed files making them easiest to work with. Over 58 csvs are downloaded and unzipped with information from 2015-2020.
 
 2. Organizing Data
 
